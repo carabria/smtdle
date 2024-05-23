@@ -1,6 +1,33 @@
-name,alignment,mythology,first_appearance,affinity_one,affinity_two,race
-Angel,Neutral-Law,Abrahamic,Shin Megami Tensei I,Light,None,Divine
-Cerberus,Neutral-Neutral,Greco-Roman,Megami Tensei,Fire,Phys,Beast
-Slime,Dark-Chaos,American,Megami Tensei,Ailment,Physical,Foul
-Unicorn,Light-Law,European,Megami Tensei II,Ice,Healing,Holy
-Take-Minakata,Light-Chaos,Japanese,Shin Megami Tensei,Elec,Physical,Kunitsu
+name,alignment_one,alignment_two,mythology,affinity_one,affinity_two,race
+Makami,Light,Neutral,Japanese,Heal,Light,Avatar
+Anubis,Light,Neutral,Egyptian,Light,Dark,Avatar
+Barong,Light,Neutral,Balinese,Elec,Phys,Avatar
+Feng Huang,Light,Law,Chinese,Fire,Heal,Avian
+Jatayu,Neutral,Law,Hindu,Force,Supp,Avian
+Thunderbird,Light,Law,American,Elec,Supp,Avian
+Zhuque,Light,Law,Chinese,Fire,Supp,Avian
+Yatagarasu,Light,Law,Japanese,Light,Force,Avian
+Garuda,Light,Law,Hindu,Force,Phys,Avian
+Cait Sith,Neutral,Neutral,Irish,Elec,Heal,Beast
+Inugami,Neutral,Neutral,Japanese,Fire,Dark,Beast
+Nekomata,Neutral,Neutral,Japanese,Phys,Force,Beast
+Orthrus,Neutral,Neutral,Greco-Roman,Phys,Fire,Beast
+Vishnu,Light,Neutral,Hindu,Dark,Light,Deity
+Baal,Light,Neutral,Canaanite,Elec,Light,Deity
+Odin,Light,Neutral,Norse,Phys,Elec,Deity
+Arahabaki,Light,Chaos,Japanese,Phys,Supp,Deity
+Loki,Dark,Chaos,Norse,Ice,Elemental,Deity
+Lakshmi,Light,Neutral,Hindu,Heal,Light,Megami
+Kikuri-Hime,Light,Neutral,Japanese,Heal,Force,Megami
+Sarasvati,Neutral,Law,Hindu,Ice,Supp,Megami
+Kushinada-Hime,Light,Chaos,Japanese,Heal,Light,Megami
+Ame-no-Uzume,Light,Neutral,Japanese,Heal,Elec,Megami
+Shiva,Light,Chaos,Hindu,Phys,Almighty,Fury
+Agni,Light,Chaos,Hindu,Fire,None,Tenma
+Bishamonten,Light,Chaos,Buddhist,Phys,Fire,Kishin
+Angel,Neutral,Law,Abrahamic,Light,None,Divine
+Cerberus,Neutral,Neutral,Greco-Roman,Fire,Phys,Beast
+Slime,Dark,Chaos,American,Ailment,Phys,Foul
+Unicorn,Light,Law,European,Ice,Heal,Holy
+Take-Minakata,LightChaos,Japanese,Elec,Phys,Kunitsu
+
