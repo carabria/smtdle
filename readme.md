@@ -1,1 +1,1 @@
-Demons from SMT V will be included. In the event of multiple ailments, highest affinity will be selected. In some cases, resistances are selected over +1 affinities.
+Only demons from SMT V will be included. The program will be a website connecting to a backend making queries to a database. 2 additional tables are planned, one to track every resistance of a demon, and one to track every affinity of a demon. These will be able to be displayed through a hints command, though this will remove one guess from the user.
