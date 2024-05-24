@@ -38,7 +38,7 @@ Angel,Neutral,Law,Abrahamic,Divine,10
 Archangel,Neurtal,Law,Abrahamic,Divine,18
 Principality,Neutral,Law,Abrahamic,Divine,28
 Power,Neutral,Law,Abrahamic,Divine,39
-Dominion,Neutral,Law,Abrahamic,,Divine,50
+Dominion,Neutral,Law,Abrahamic,Divine,50
 Throne,Neutral,Law,Abrahamic,Divine,64
 Xuanwu,Light,Chaos,Chinese,Dragon,23
 Quetzalcoatl,Light,Chaos,Aztec,Dragon,34
@@ -73,7 +73,7 @@ Flauros,Neutral,Chaos,Abrahamic,Fallen,50
 Decarabia,Neutral,Chaos,Abrahamic,Fallen,55
 Nebiros,Neutral,Chaos,Abrahamic,Fallen,67
 Adramelech,Neutral,Chaos,Abrahamic,Fallen,71
-Abdiel (Fallen),Neutral,Law,Abrahamic,Fallen,89
+Fallen Abdiel,Neutral,Law,Abrahamic,Fallen,89
 Mermaid,Neutral,Chaos,English,Femme,12
 Leanan Sidhe,Neutral,Chaos,Irish,Femme,17
 Manananggal,Neutral,Chaos,Filipino,Femme,25
@@ -151,7 +151,7 @@ Thor,Light,Chaos,Norse,Kishin,66
 Take-Minakata,Light,Chaos,Japanese,Kunitsu,19
 Sukuna-Hikona,Light,Chaos,Japanese,Kunitsu,37
 Oyamatsumi,Light,Chaos,Japanese,Kunitsu,40
-Kushinada-Hime,Light,Chaos,Japanese,Kunitsu,
+Kushinada-Hime,Light,Chaos,Japanese,Kunitsu,49
 Okuninushi,Light,Chaos,Japanese,Kunitsu,55
 Arahabaki,Light,Chaos,Japanese,Kunitsu,62
 Kikuri-Hime,Light,Chaos,Japanese,Lady,24
@@ -177,10 +177,6 @@ Norn,Light,Neutral,Norse,Megami,67
 Lakshmi,Light,Neutral,Hindu,Megami,70
 Demeter,Light,Neutral,Greco-Roman,Megami,76
 Maria,Light,Law,Abrahamic,Megami,84
-Ara Mitama,Light,Neutral,Japanese,Mitama,Varies
-Saki Mitama,Light,Neutral,Japanese,Mitama,Varies
-Nigi Mitama,Light,Neutral,Japanese,Mitama,Varies
-Kushi Mitama,Light,Neutral,Japanese,Mitama,Varies
 Sandman,Neutral,Chaos,European,Night,8
 Mokoi,Neutral,Chaos,Australian,Night,16
 Incubus,Neutral,Chaos,Abrahamic,Night,22
