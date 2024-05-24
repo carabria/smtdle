@@ -12,7 +12,7 @@ Cait Sith,Neutral,Neutral,Irish,Beast,7
 Inugami,Neutral,Neutral,Japanese,Beast,24
 Nekomata,Neutral,Neutral,Japanese,Beast,34
 Orthrus,Neutral,Neutral,Greco-Roman,Beast,42
-Orobas,Dark,Chaos,Abrahamic,Beast,49
+Orobas,Neutral,Neutral,Abrahamic,Beast,49
 Loup-garou,Neutral,Neutral,European,Beast,54
 Cerberus,Neutral,Neutral,Greco-Roman,Beast,64
 Daemon,Neutral,Chaos,Abrahamic,Brute,7
@@ -28,7 +28,7 @@ Thoth,Light,Neutral,Egyptian,Deity,33
 Horus,Light,Neutral,Egyptian,Deity,42
 Atavaka,Light,Neutral,Buddhist,Deity,54
 Khonsu,Light,Neutral,Egyptian,Deity,62
-Mithra,Dark,Chaos,Zoroastrian,Deity,65
+Mithra,Light,Neutral,Zoroastrian,Deity,65
 Odin,Light,Neutral,Norse,Deity,77
 Khonsu Ra,Light,Neutral,Egyptian,Deity,78
 Zeus,Light,Neutral,Greco-Roman,Deity,86
@@ -43,7 +43,7 @@ Throne,Neutral,Law,Abrahamic,Divine,64
 Xuanwu,Light,Chaos,Chinese,Dragon,23
 Quetzalcoatl,Light,Chaos,Aztec,Dragon,34
 Qing Long,Light,Chaos,Chinese,Dragon,45
-Ananta,Neutral,Neutral,Hindu,Dragon,59
+Ananta,Light,Chaos,Hindu,Dragon,59
 Huang Long,Light,Chaos,Chinese,Dragon,78
 Aitvaras,Dark,Chaos,Lithuanian,Drake,17
 Basilisk,Dark,Chaos,European,Drake,31
@@ -115,15 +115,121 @@ Obariyon,Dark,Chaos,Japanese,Haunt,12
 Poltergeist,Dark,Chaos,European,Haunt,25
 Pisaca,Dark,Chaos,Hindu,Haunt,31
 Kumbhanda,Dark,Chaos,Buddhist,Haunt,41
-
-Arahabaki,Light,Chaos,Japanese,Deity
-Loki,Dark,Chaos,Norse,Deity
-Lakshmi,Light,Neutral,Hindu,Megami
-Kikuri-Hime,Light,Neutral,Japanese,Megami
-Sarasvati,Neutral,Law,Hindu,Megami
-Kushinada-Hime,Light,Chaos,Japanese,Megami
-Ame-no-Uzume,Light,Neutral,Japanese,Megami
-Bishamonten,Light,Chaos,Buddhist,Kishin
-Unicorn,Light,Law,European,Holy
-Take-Minakata,Light,Chaos,Japanese,Kunitsu
-
+Melchizedek,Light,Law,Abrahamic,Herald,60
+Camael,Light,Law,Abrahamic,Herald,69
+Sraosha,Light,Law,Abrahamic,Herald,77
+Abdiel,Light,Law,Abrahamic,Herald,80
+Uriel,Light,Law,Abrahamic,Herald,82
+Raphael,Light,Law,Abrahamic,Herald,84
+Gabriel,Light,Law,Abrahamic,Herald,86
+Sandalphon,Light,Law,Abrahamic,Herald,88
+Michael,Light,Law,Abrahamic,Herald,90
+Metatron,Light,Law,Abrahamic,Herald,95
+Shiisaa,Light,Neutral,Japanese,Holy,19
+Cironnup,Light,Neutral,Japanese,Holy,27
+Hayataro,Light,Neutral,Japanese,Holy,40
+Baihu,Light,Neutral,Chinese,Holy,43
+Chimera,Light,Neutral,Greco-Roman,Holy,55
+Turdak,Dark,Neutral,Tibetan,Jaki,11
+Rakshasa,Dark,Neutral,Buddhist,Jaki,20
+Loa,Dark,Neutral,Haitian,Jaki,30
+Macabre,Dark,Neutral,European,Jaki,43
+Hecatoncheires,Dark,Neutral,Greco-Roman,Jaki,55
+Kodama,Neutral,Neutral,Japanese,Jirae,6
+Tsuchigumo,Neutral,Neutral,Japanese,Jirae,13
+Sudama,Neutral,Neutral,Japanese,Jirae,17
+Kaya-no-Hime,Neutral,Neutral,Japanese,Jirae,21
+Koropokkur,Neutral,Neutral,Japanese,Jirae,26
+Hua Po,Neutral,Neutral,Chinese,Jirae,31
+Narcissus,Neutral,Neutral,Greco-Roman,Jirae,38
+Attis,Light,Chaos,Greco-Roman,Kishin,27
+Zouchouten,Light,Chaos,Buddhist,Kishin,36
+Koumokuten,Light,Chaos,Buddhist,Kishin,44
+Jikokuten,Light,Chaos,Buddhist,Kishin,51
+Bishamonten,Light,Chaos,Buddhist,Kishin,58
+Thor,Light,Chaos,Norse,Kishin,66
+Take-Minakata,Light,Chaos,Japanese,Kunitsu,19
+Sukuna-Hikona,Light,Chaos,Japanese,Kunitsu,37
+Oyamatsumi,Light,Chaos,Japanese,Kunitsu,40
+Kushinada-Hime,Light,Chaos,Japanese,Kunitsu,
+Okuninushi,Light,Chaos,Japanese,Kunitsu,55
+Arahabaki,Light,Chaos,Japanese,Kunitsu,62
+Kikuri-Hime,Light,Chaos,Japanese,Lady,24
+Hariti,Light,Chaos,Buddhist,Lady,35
+Isis,Light,Chaos,Egyptian,Lady,46
+Cybele,Light,Chaos,Greco-Roman,Lady,56
+Ishtar,Light,Chaos,Babylonian,Lady,62
+Skadi,Light,Chaos,Norse,Lady,67
+Nuwa,Light,Chaos,Chinese,Lady,80
+Alilat,Light,Chaos,Arabian,Lady,81
+Inanna,Light,Chaos,Mesopotamian,Lady,87
+Nuwa (Serpent),Light,Chaos,Chinese,Lady,89
+Danu,Light,Chaos,Irish,Lady,93
+Fortuna,Light,Neutral,Greco-Roman,Megami,15
+Ame-no-Uzume,Light,Neutral,Japanese,Megami,22
+Anahita,Light,Neutral,Zoroastrian,Megami,29
+Parvavti,Light,Neutral,Hindu,Megami,35
+Artemis,Light,Neutral,Greco-Roman,Megami,37
+Idun,Light,Neutral,Norse,Megami,42
+Sarasvati,Light,Neutral,Hindu,Megami,47
+Scathach,Light,Neutral,Irish,Megami,55
+Norn,Light,Neutral,Norse,Megami,67
+Lakshmi,Light,Neutral,Hindu,Megami,70
+Demeter,Light,Neutral,Greco-Roman,Megami,76
+Maria,Light,Law,Abrahamic,Megami,84
+Ara Mitama,Light,Neutral,Japanese,Mitama,Varies
+Saki Mitama,Light,Neutral,Japanese,Mitama,Varies
+Nigi Mitama,Light,Neutral,Japanese,Mitama,Varies
+Kushi Mitama,Light,Neutral,Japanese,Mitama,Varies
+Sandman,Neutral,Chaos,European,Night,8
+Mokoi,Neutral,Chaos,Australian,Night,16
+Incubus,Neutral,Chaos,Abrahamic,Night,22
+Lilim,Neutral,Chaos,Abrahamic,Night,32
+Succubus,Neutral,Chaos,Abrahamic,Night,38
+Black Frost,Neutral,Chaos,Original,Night,44
+Kaiwan,Neutral,Chaos,Mesopotamian,Night,45
+Queen Medb,Neutral,Chaos,Irish,Night,56
+Lilith,Neutral,Chaos,Abrahamic,Night,68
+Raptor,Dark,Law,Japanese,Raptor,4
+Zhen,Dark,Law,Chinese,Raptor,14
+Muu Shuwuu,Dark,Law,Uliger,Raptor,38
+Anzu,Dark,Law,Mesopotamian,Raptor,48
+Naga,Neutral,Chaos,Buddhist,Snake,27
+Naga Raja,Neutral,Chaos,Buddhist,Snake,40
+Yurlungur,Neutral,Chaos,Aboriginal,Snake,50
+Yamata-no-Orochi,Neutral,Chaos,Japanese,Snake,72
+King Frost,Dark,Chaos,Original,Tyrant,33
+Belphegor,Dark,Chaos,Abrahamic,Tyrant,44
+Moloch,Dark,Chaos,Abrahamic,Tyrant,51
+Loki,Dark,Chaos,Norse,Tyrant,56
+Surt,Dark,Chaos,Norse,Tyrant,62
+Mara,Dark,Chaos,Buddhist,Tyrant,67
+Abbadon,Dark,Chaos,Abrahamic,Tyrant,72
+Arioch,Dark,Chaos,Abrahamic,Tyrant,75
+Mithras,Dark,Chaos,Greco-Roman,Tyrant,77
+Mephisto,Dark,Chaos,European,Tyrant,79
+Amon,Dark,Chaos,Abrahamic,Tyrant,82
+Chi You,Dark,Chaos,Chinese,Tyrant,87
+Belial,Dark,Chaos,Abrahamic,Tyrant,92
+Beelzebub,Dark,Chaos,Abrahamic,Tyrant,95
+Baphomet,Dark,Chaos,Occult,Vile,33
+Mishaguji,Dark,Law,Japanese,Vile,42
+Lahmu,Dark,Chaos,Mesopotamian,Vile,48
+Pazuzu,Dark,Law,Mesopotamian,Vile,52
+Girimekhala,Dark,Law,Buddhist,Vile,66
+Mada,Dark,Law,Hindu,Vile,83
+Neko Shogun,Light,Neutral,Chinese,Wargod,5
+Yoshitsune,Light,Neutral,Japanese,Wargod,45
+Ganesha,Light,Neutral,Hindu,Wargod,57
+Siegfried,Light,Neutral,European,Wargod,63
+Futsunushi,Light,Neutral,Japanese,Wargod,69
+Bicorn,Dark,Neutral,European,Wilder,14
+Bugs,Dark,Neutral,English,Wilder,24
+Mothman,Dark,Neutral,Pop Culture,Wilder,29
+Nue,Dark,Neutral,Japanese,Wilder,49
+Mandrake,Neutral,Law,European,Yoma,6
+Agathion,Neutral,Law,Abrahamic,Yoma,10
+Apsaras,Neutral,Law,Buddhist,Yoma,16
+Koppa Tengu,Neutral,Law,Japanese,Yoma,24
+Valkyrie,Neutral,Law,Norse,Yoma,40
+Tao,Light,Law,Original,Panagia,60
