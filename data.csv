@@ -1,72 +1,129 @@
-name,alignment_one,alignment_two,mythology,affinity_one,affinity_two,race,starting_level
-Makami,Light,Neutral,Japanese,Heal,Light,Avatar,21
-Anubis,Light,Neutral,Egyptian,Light,Dark,Avatar,41
-Barong,Light,Neutral,Balinese,Elec,Phys,Avatar,60
-Feng Huang,Light,Law,Chinese,Fire,Heal,Avian,22
-Jatayu,Light,Law,Hindu,Force,Supp,Avian,32
-Thunderbird,Light,Law,American,Elec,Supp,Avian,38
-Zhuque,Light,Law,Chinese,Fire,Supp,Avian,43
-Yatagarasu,Light,Law,Japanese,Light,Force,Avian,54
-Garuda,Light,Law,Hindu,Force,Phys,Avian,64
-Cait Sith,Neutral,Neutral,Irish,Elec,Heal,Beast,7
-Inugami,Neutral,Neutral,Japanese,Fire,Dark,Beast,24
-Nekomata,Neutral,Neutral,Japanese,Phys,Force,Beast,34
-Orthrus,Neutral,Neutral,Greco-Roman,Phys,Fire,Beast,42
-Orobas,Dark,Chaos,Goetia,Fire,Dark,Beast,49
-Loup-garou,Neutral,Neutral,European,Phys,Elec,Beast,54
-Cerberus,Neutral,Neutral,Greco-Roman,Fire,Phys,Beast,64
-Daemon,Neutral,Chaos,Abrahamic,Phys,Dark,Brute,7
-Azumi,Neutral,Chaos,Japanese,Ice,Heal,Brute,11
-Ippon-Datara,Neutral,Chaos,Japanese,Phys,Supp,Brute,17
-Oni,Neutral,Chaos,Japanese,Phys,None,Brute,23
-Shiki-Ouji,Neutral,Chaos,Japanese,Force,Phys,Brute,29
-Kin-Ki,Neutral,Chaos,Japanese,Phys,Elec,Brute,49
-Sui-Ki,Neutral,Chaos,Japanese,Ice,Phys,Brute,56
-Fuu-Ki,Neutral,Chaos,Japanese,Force,Phys,Brute,63
-Ongyo-Ki,Neutral,Chaos,Japanese,Phys,Almighty,78
-Thoth,Light,Neutral,Egyptian,Support,Light,33
-Horus,Light,Neutral,Egyptian,Light,Almighty,42
-Atavaka,Light,Neutral,Buddhist,Phys,Light,54
-Khonsu,Light,Neutral,Egyptian,Fire,Phys,62
-Mithra,Dark,Chaos,Zoroastrian,Light,Dark,65
-Odin,Light,Neutral,Norse,Phys,Elec,77
-Khonsu Ra,Light,Neutral,Egyptian,Fire,Light,78
-Zeus,Light,Neutral,Deity,Elec,Phys,86
-Vishnu,Light,Neutral,Hindu,Dark,Light,Deity,87
-Baal,Light,Neutral,Canaanite,Elec,Light,Deity,93
-Angel,Neutral,Law,Abrahamic,Light,Healing,Divine,10
-Archangel,Neurtal,Law,Abrahamic,Light,Phys,Divine,18
-Principality,Neutral,Law,Abrahamic,Light,Healing,Divine,28
-Power,Neutral,Law,Abrahamic,Phys,Light,Divine,39
-Dominion,Neutral,Law,Abrahamic,Elec,Light,Divine,50
-Throne,Neutral,Law,Abrahamic,Fire,Light,Divine,64
-Xuanwu,Light,Chaos,Chinese,Ice,Supp,Dragon,23
-Quetzalcoatl,Light,Chaos,Aztec,Fire,Force,Dragon,34
-Qing Long,Light,Chaos,Chinese,Force,Ice,Dragon,45
-Ananta,Neutral,Neutral,Hindu,Ice,Elec,Dragon,59
-Huang Long,Light,Chaos,Chinese,Almighty,Healing,Dragon,78
-Aitvaras,Dark,Chaos,Lithuanian,Fire,Supp,Drake,17
-Basilisk,Dark,Chaos,European,Ailment,Ice,Drake,31
-Hydra,Dark,Chaos,Greco-Roman,Phys,Fire,Drake,53
-Fafnir,Dark,Chaos,Norse,Phys,Ailment,Drake,60
-Seth,Dark,Chaos,Egyptian,Phys,Elec,Drake,67
-Vasuki,Dark,Chaos,Hindu,Ailment,Ice,Drake,74
-Erthys,Neutral,Neutral,Original,Elec,Ailment,9
-Aeros,Neutral,Neutral,Original,Force,Ailment,12
-Aquans,Neutral,Neutral,Original,Ice,Ailment,15
-Flaemis,Neutral,Neutral,Original,Fire,Ailment,18
+name,alignment_one,alignment_two,mythology,race,starting_level
+Makami,Light,Neutral,Japanese,Avatar,21
+Anubis,Light,Neutral,Egyptian,Avatar,41
+Barong,Light,Neutral,Balinese,Avatar,60
+Feng Huang,Light,Law,Chinese,Avian,22
+Jatayu,Light,Law,Hindu,Avian,32
+Thunderbird,Light,Law,American,Avian,38
+Zhuque,Light,Law,Chinese,Avian,43
+Yatagarasu,Light,Law,Japanese,Avian,54
+Garuda,Light,Law,Hindu,Avian,64
+Cait Sith,Neutral,Neutral,Irish,Beast,7
+Inugami,Neutral,Neutral,Japanese,Beast,24
+Nekomata,Neutral,Neutral,Japanese,Beast,34
+Orthrus,Neutral,Neutral,Greco-Roman,Beast,42
+Orobas,Dark,Chaos,Abrahamic,Beast,49
+Loup-garou,Neutral,Neutral,European,Beast,54
+Cerberus,Neutral,Neutral,Greco-Roman,Beast,64
+Daemon,Neutral,Chaos,Abrahamic,Brute,7
+Azumi,Neutral,Chaos,Japanese,Brute,11
+Ippon-Datara,Neutral,Chaos,Japanese,Brute,17
+Oni,Neutral,Chaos,Japanese,Brute,23
+Shiki-Ouji,Neutral,Chaos,Japanese,Brute,29
+Kin-Ki,Neutral,Chaos,Japanese,Brute,49
+Sui-Ki,Neutral,Chaos,Japanese,Brute,56
+Fuu-Ki,Neutral,Chaos,Japanese,Brute,63
+Ongyo-Ki,Neutral,Chaos,Japanese,Brute,78
+Thoth,Light,Neutral,Egyptian,Deity,33
+Horus,Light,Neutral,Egyptian,Deity,42
+Atavaka,Light,Neutral,Buddhist,Deity,54
+Khonsu,Light,Neutral,Egyptian,Deity,62
+Mithra,Dark,Chaos,Zoroastrian,Deity,65
+Odin,Light,Neutral,Norse,Deity,77
+Khonsu Ra,Light,Neutral,Egyptian,Deity,78
+Zeus,Light,Neutral,Greco-Roman,Deity,86
+Vishnu,Light,Neutral,Hindu,Deity,87
+Baal,Light,Neutral,Canaanite,Deity,93
+Angel,Neutral,Law,Abrahamic,Divine,10
+Archangel,Neurtal,Law,Abrahamic,Divine,18
+Principality,Neutral,Law,Abrahamic,Divine,28
+Power,Neutral,Law,Abrahamic,Divine,39
+Dominion,Neutral,Law,Abrahamic,,Divine,50
+Throne,Neutral,Law,Abrahamic,Divine,64
+Xuanwu,Light,Chaos,Chinese,Dragon,23
+Quetzalcoatl,Light,Chaos,Aztec,Dragon,34
+Qing Long,Light,Chaos,Chinese,Dragon,45
+Ananta,Neutral,Neutral,Hindu,Dragon,59
+Huang Long,Light,Chaos,Chinese,Dragon,78
+Aitvaras,Dark,Chaos,Lithuanian,Drake,17
+Basilisk,Dark,Chaos,European,Drake,31
+Hydra,Dark,Chaos,Greco-Roman,Drake,53
+Fafnir,Dark,Chaos,Norse,Drake,60
+Seth,Dark,Chaos,Egyptian,Drake,67
+Vasuki,Dark,Chaos,Hindu,Drake,74
+Erthys,Neutral,Neutral,Original,Element,9
+Aeros,Neutral,Neutral,Original,Element,12
+Aquans,Neutral,Neutral,Original,Element,15
+Flaemis,Neutral,Neutral,Original,Element,18
+Pixie,Neutral,Neutral,Engllish,Fairy,2
+High Pixie,Neutral,Neurtal,English,Fairy,18
+Jack-'o-Lantern,Neutral,Neutral,English,Fairy,20
+Jack Frost,Neutral,Neutral,English,Fairy,25
+Kelpie,Neutral,Neutral,Irish,Fairy,30
+Setanta,Neutral,Neutral,Irish,Fairy,35
+Silky,Neutral,Neutral,Scottish,Fairy,41
+Oberon,Neutral,Neutral,English,Fairy,47
+Titania,Neutral,Neutral,English,Fairy,57
+Andras,Neutral,Chaos,Abrahamic,Fallen,18
+Berith,Neutral,Chaos,Abrahamic,Fallen,24
+Forneus,Neutral,Chaos,Abrahamic,Fallen,31
+Eligor,Neutral,Chaos,Abrahamic,Fallen,37
+Ose,Neutral,Chaos,Abrahamic,Fallen,44
+Flauros,Neutral,Chaos,Abrahamic,Fallen,50
+Decarabia,Neutral,Chaos,Abrahamic,Fallen,55
+Nebiros,Neutral,Chaos,Abrahamic,Fallen,67
+Adramelech,Neutral,Chaos,Abrahamic,Fallen,71
+Abdiel (Fallen),Neutral,Law,Abrahamic,Fallen,89
+Mermaid,Neutral,Chaos,English,Femme,12
+Leanan Sidhe,Neutral,Chaos,Irish,Femme,17
+Manananggal,Neutral,Chaos,Filipino,Femme,25
+Yaksini,Neutral,Chaos,Hindu,Femme,30
+Lamia,Neutral,Chaos,Greco-Roman,Femme,36
+Dakini,Neutral,Chaos,Buddhist,Femme,46
+Clotho,Neutral,Chaos,Greco-Roman,Femme,52
+Lachesis,Neutral,Chaos,Greco-Roman,Femme,58
+Cleopatra,Neutral,Chaos,Egyptian,Femme,61
+Atropos,Neutral,Chaos,Greco-Roman,Femme,64
+Rangda,Neutral,Chaos,Balinese,Femme,70
+Kali,Neutral,Chaos,Hindu,Femme,76
+Matador,Neutral,Neutral,European,Fiend,24
+Daisoujou,Neutral,Neutral,Buddhist,Fiend,30
+Hell Biker,Neutral,Neutral,Pop Culture,Fiend,36
+Alice,Neutral,Neutral,English,Fiend,40
+White Rider,Dark,Neutral,Abrahamic,Fiend,43
+Red Rider,Dark,Neutral,Abrahamic,Fiend,47
+Black Rider,Dark,Neutral,Abrahamic,Fiend,52
+Pale Rider,Dark,Neutral,Abrahamic,Fiend,57
+Mother Harlot,Dark,Neutral,Abrahamic,Fiend,64
+Trumpeter,Neutral,Neutral,Abrahamic,Fiend,73
+Slime,Dark,Chaos,Pop Culture,Foul,1
+Legion,Dark,Chaos,Abrahamic,Foul,19
+Black Ooze,Dark,Chaos,Pop Culture,Foul,33
+Dionysus,Light,Chaos,Greco-Roman,Fury,44
+Chernobog,Light,Chaos,Slavic,Fury,52
+Mot,Light,Chaos,Canaanite,Fury,63
+Zaou-Gongen,Light,Chaos,Japanese,Fury,75
+Asura,Light,Chaos,Buddhist,Fury,84
+Shiva,Light,Chaos,Hindu,Fury,96
+Kurama Tengu,Light,Neutral,Japanese,Genma,39
+Hanuman,Light,Neutral,Hindu,Genma,46
+Cu Chulainn,Light,Neutral,Irish,Genma,52
+Fionn mac Cumhaill,Light,Neutral,Irish,Genma,71
+Amanozako,Light,Neutral,Japanese,Genma,76
+Preta,Dark,Chaos,Hindu,Haunt,3
+Obariyon,Dark,Chaos,Japanese,Haunt,12
+Poltergeist,Dark,Chaos,European,Haunt,25
+Pisaca,Dark,Chaos,Hindu,Haunt,31
+Kumbhanda,Dark,Chaos,Buddhist,Haunt,41
 
-Arahabaki,Light,Chaos,Japanese,Phys,Supp,Deity
-Loki,Dark,Chaos,Norse,Ice,Elemental,Deity
-Lakshmi,Light,Neutral,Hindu,Heal,Light,Megami
-Kikuri-Hime,Light,Neutral,Japanese,Heal,Force,Megami
-Sarasvati,Neutral,Law,Hindu,Ice,Supp,Megami
-Kushinada-Hime,Light,Chaos,Japanese,Heal,Light,Megami
-Ame-no-Uzume,Light,Neutral,Japanese,Heal,Elec,Megami
-Shiva,Light,Chaos,Hindu,Phys,Almighty,Fury
-Agni,Light,Chaos,Hindu,Fire,None,Tenma
-Bishamonten,Light,Chaos,Buddhist,Phys,Fire,Kishin
-Slime,Dark,Chaos,American,Ailment,Phys,Foul
-Unicorn,Light,Law,European,Ice,Heal,Holy
-Take-Minakata,LightChaos,Japanese,Elec,Phys,Kunitsu
+Arahabaki,Light,Chaos,Japanese,Deity
+Loki,Dark,Chaos,Norse,Deity
+Lakshmi,Light,Neutral,Hindu,Megami
+Kikuri-Hime,Light,Neutral,Japanese,Megami
+Sarasvati,Neutral,Law,Hindu,Megami
+Kushinada-Hime,Light,Chaos,Japanese,Megami
+Ame-no-Uzume,Light,Neutral,Japanese,Megami
+Bishamonten,Light,Chaos,Buddhist,Kishin
+Unicorn,Light,Law,European,Holy
+Take-Minakata,Light,Chaos,Japanese,Kunitsu
 

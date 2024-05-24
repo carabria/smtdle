@@ -2,7 +2,7 @@
 PSQL="psql --username=postgres --dbname=smtdle -t --no-align -c"
 TRUNCATE=$($PSQL"TRUNCATE demons RESTART IDENTITY")
 echo $TRUNCATE
-cat data.csv | while IFS=',' read NAME ALIGNMENT_ONE ALIGNMENT_TWO MYTHOLOGY AFFINITY_ONE AFFINITY_TWO RACE, STARTING_LEVEL
+cat data.csv | while IFS=',' read NAME ALIGNMENT_ONE ALIGNMENT_TWO MYTHOLOGY AFFINITY_ONE AFFINITY_TWO RACE STARTING_LEVEL
 do
 if [[ $NAME != name ]]
 then
